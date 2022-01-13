@@ -1,0 +1,22 @@
+{
+  "name": "messanger-chatbot",
+  "version": "1.0.0",
+  "description": "this is the facebook messanger bot built using NodeJS (Express)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "messanger",
+    "bot",
+    "node.js",
+    "express"
+  ],
+  "author": "primidi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
